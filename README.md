@@ -1,0 +1,2 @@
+# snsnotificationtest
+sns notification test
